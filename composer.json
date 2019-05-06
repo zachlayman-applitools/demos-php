@@ -1,0 +1,5 @@
+{
+    "require": {
+        "applitools/eyes.sdk.php": "^1.3"
+    }
+}
